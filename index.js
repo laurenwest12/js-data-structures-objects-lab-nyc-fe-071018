@@ -1,3 +1,1 @@
-const driver = {
-  key: object
-}
+const driver = {};
